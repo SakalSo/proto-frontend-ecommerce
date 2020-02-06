@@ -1,0 +1,52 @@
+#brand-tab {
+    min-height: 15vh;
+}
+.lan-icon {
+    width: 20px;
+    height: 20px; 
+}
+.brand-font {
+    font-family: 'Raleway', sans-serif;
+}
+#sugarxspice-logo {
+    width: 301.148px; 
+    height: 50px;
+}
+.cus-link {
+    text-decoration: none;
+}
+.color-grey {
+    color: #515151;
+}
+.vl {
+    display: f-block;
+    border-left: 1.5px solid #515151;
+    margin: 0 10px;
+    height: 25px;
+}
+.vl-s {
+    display: inline-block;
+    border-left: 1.5px solid #515151;
+    margin: 0 5px;
+    height: 15px; 
+}
+
+#cata-nav {
+    background-color: #F7F7F7 !important;
+}
+.cata-font {
+    color: #707070;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+}
+
+.cus-third-container {
+    min-height: 75px;
+    width: 1778px;
+}
+.cus-third-container-link {
+    margin: 5px 3px;
+    width: 182px;
+    min-height: 71px;
+    background-color:#FFD1D2;
+}

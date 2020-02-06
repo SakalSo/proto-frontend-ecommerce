@@ -1,0 +1,1 @@
+{"version":"1.5.0","children":[],"resources":{"gradients":{},"clipPaths":{},"meta":{"ux":{"symbols":[],"colorSwatches":[],"documentLibrary":{"version":4,"elements":[]},"gridDefaults":{"defaultGrid":null,"layoutOverrides":null}}}},"artboards":{"0496a5b5-1147-48c7-b1cf-fc26ed718cc9":{"width":1920,"height":3819,"name":"HomePage - Interface","x":1990,"y":0,"viewportHeight":1080}}}
